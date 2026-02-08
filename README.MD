@@ -33,7 +33,7 @@ It follows industry best practices such as:
 ## ⚙️ How to Run the Application
 
 ```bash
-git clone <your-github-repo-url>
+git clone <https://github.com/perumalrajc1-eng/Item-Model.git>
 cd Item-Model
 mvnw.cmd spring-boot:run
 
