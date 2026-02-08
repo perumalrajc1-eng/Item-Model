@@ -51,6 +51,11 @@ API Endpoints
 POST /api/items → Add new item
 GET /api/items/{id} → Get item by ID
 
+Docker Deployment (Cloud Hosting)
+
+This application is containerized using Docker and deployed on Render.
+The Dockerfile builds the application using Maven Wrapper and runs the packaged JAR.
+
 
 👨‍💻 Author
 C.Perumalraj
